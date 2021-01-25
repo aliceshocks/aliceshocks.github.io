@@ -33,12 +33,12 @@ html {
  */
 
 ::-moz-selection {
-    background: #9ed2de;
+    background: #bedee6;
     text-shadow: none;
 }
 
 ::selection {
-    background: #9ed2de;
+    background: #bedee6;
     text-shadow: none;
 }
 
@@ -50,7 +50,7 @@ html {
 body {
     padding: 10%;
     font-family: 'Share Tech Mono', monospace;
-    background-color: #9ed2de;
+    background-color: #bedee6;
     color: #313131;
 }
 
