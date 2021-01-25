@@ -94,11 +94,9 @@ hr {
 audio,
 canvas,
 iframe,
-img,
+img {vertical-align: middle;}
 svg,
-video {
-    vertical-align: middle;
-}
+video {vertical-align: middle;}
 
 
 /*
